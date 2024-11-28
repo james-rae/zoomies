@@ -1,0 +1,1 @@
+body{background-color:#6495ed;margin:0}.img-clipper{overflow:hidden;width:1400px;height:660px}.img-zoomies{margin:auto;animation:zoom-in-zoom-out 8s ease infinite}@keyframes zoom-in-zoom-out{0%{scale:100%}50%{scale:200%}to{scale:100%}}
